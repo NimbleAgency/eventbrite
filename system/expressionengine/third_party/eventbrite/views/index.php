@@ -1,0 +1,1 @@
+<p>Welcome to the Eventbrite API integration module for ExpressionEngine 2.</p>
